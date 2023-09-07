@@ -6,6 +6,6 @@ pic:
 	gcc -o pic pic.c 
 clean:
 	rm main 
-all: 
+run: 
 	./main
 

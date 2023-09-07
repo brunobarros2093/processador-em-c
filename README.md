@@ -1,1 +1,3 @@
-# processador-em-c
+# Processador 8bit em C [WIP]
+
+Arquitetura Von Neumann, PORT ITR. 
